@@ -9,7 +9,7 @@
 -  Thank You for visiting😀
 
 > ## Preview:
-![ghp.png](https://github.com/MRINMOY662/Modern-Portfolio-Website-Template/blob/main/ghp.png)
+![prev.png](https://github.com/ItsDevArya/Modern-Portfolio-Website-Template/blob/main/prev.png)
 
 
 
